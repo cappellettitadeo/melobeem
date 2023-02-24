@@ -50,7 +50,7 @@ gem 'rubocop-rspec', require: false
 
 # authentication
 gem 'devise'
-gem 'omniauth', '~> 1.9.1' # TODO: update to v2, resolve issue with devise
+gem 'omniauth', '~> 2.0.0' # TODO: update to v2, resolve issue with devise
 gem 'omniauth-facebook'
 
 # sidekiq and sidekiq-scheduler
